@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#061321"/>
+  <path d="M15 32c0-10 7-18 17-18 7 0 13 4 16 10l-8 4c-2-4-4-6-8-6-5 0-9 4-9 10s4 10 9 10c4 0 7-2 9-6l8 4c-3 7-9 11-17 11-10 0-17-8-17-19Z" fill="#00d9ff"/>
+  <circle cx="49" cy="15" r="7" fill="#22c55e"/>
+  <text x="49" y="18" text-anchor="middle" font-family="Arial" font-size="8" font-weight="700" fill="#fff">IA</text>
+</svg>
